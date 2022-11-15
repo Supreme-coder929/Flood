@@ -1,14 +1,9 @@
-import hashlib
 import sys
-import socket
 import platform
 import uuid
 import re
-import threading
 import requests
-import os
-import time
-import sqlite3 
+import os 
 from getpass import getuser
 # DEFINE THIS VARIABLE BEFORE SENDING TO THE TARGET
 
